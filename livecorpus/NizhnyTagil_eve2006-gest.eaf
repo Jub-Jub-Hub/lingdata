@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-17T01:25:13+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/HP/Downloads/NizhnyTagil_eve2006.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./NizhnyTagil_eve2006.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6db6befb-f085-4e49-a69d-5dee342f3744</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">33</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="19055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="26442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="29801"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="35011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="35459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="37602"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="40099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="40718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="40746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="41939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="48619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="50746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50878"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53994"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="56983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="59354"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="60890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="62972"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="denis" LINGUISTIC_TYPE_REF="gesture"
+        PARTICIPANT="@eve2006m" TIER_ID="gesture@eve2006m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Поднимает руки к туловищу, хлопает в ладоши: попадает пальцами ондой руки на подушечку ладони другой; опускает руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>поднимает руки, поправляет положение стула, возвращает руки к ногам и сплетает пальцы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>закидывает голову к левому плечу, перекладывает указательные пальцы друг на друга</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>дернул головой в сторону</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>указательным пальцем левой руки указывает вперед, сгинает палец</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>перебирает пальцами на скрещенных руках</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>опрокидывает голову назад, возвращает в изначальное положение</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>двигает головой вправо, кивает головой, двигает головой влево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>поднимает руки к туловищу, кладет левую руку на правую, отводит руки друг от друга, снова кладет левую руку на правую, указательный палец левой руки смотрит в сторону</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>убирает пальцы одной руки от другой, возвращает их в исходное положение, качает пальцами, кситями, руками</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>поворачивает голову к правому плечу, возвращает голову по направлению к камере, дергает головой влево, отводит пальцы правой руки, кладет пальцы на ладонь левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="denis" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@eve2006m" PARTICIPANT="@eve2006m" TIER_ID="gestMeaning@eve2006m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>привлечь внимание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>принять удобное положение сидя</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>задуматься над вопросом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>отрицание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>обращение внимания на промежуток времени</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>акцентирование высказывания</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>задуматься над вопросом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>перечесление информации</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>подчеркнуть высказывание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>акцентирование</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>задуматься, подчеркнуть высказывание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="denis" LINGUISTIC_TYPE_REF="gesture_organs"
+        PARENT_REF="gesture@eve2006m" PARTICIPANT="@eve2006m" TIER_ID="gestActiveOrgan@eve2006m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ладони, кисти, руки</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>руки, плечи, кисти, пальцы, ноги</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>голова, пальцы рук</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>голова</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>пальцы указательные</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>пальцы рук</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>голова</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>голова</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>руки, пальцы, ладони, пальцы указательные</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>руки, кисти, пальцы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>голова, пальцы рук, ладони</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gesture" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_organs" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
